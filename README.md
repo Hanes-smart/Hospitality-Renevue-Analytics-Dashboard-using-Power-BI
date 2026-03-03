@@ -83,3 +83,4 @@ Percentage change in realisation rate compared to the previous week.
 
 ## DSRN WoW Change %
 Percentage change in Daily Sellable Room Nights compared to the previous week.
+![what1]
