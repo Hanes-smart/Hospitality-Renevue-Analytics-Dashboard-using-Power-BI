@@ -1,6 +1,8 @@
 # Hospitality-Renevue-Analytics-Dashboard-using-Power-BI
-
 This document explains the key business metrics used in the Hotel Booking Analytics Dashboard.
+
+**Schema**
+![schema](https://github.com/Hanes-smart/Hospitality-Renevue-Analytics-Dashboard-using-Power-BI/blob/main/WhatsApp%20Image%202026-03-03%20at%209.09.23%20PM.jpeg)
 
 ## Revenue
 Revenue is the total income earned by the hotel from room bookings during a specific time period.
