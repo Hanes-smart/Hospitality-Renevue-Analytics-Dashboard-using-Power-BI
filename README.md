@@ -78,8 +78,11 @@ Percentage change in RevPAR compared to the previous week.
 ## Realisation WoW Change %
 Percentage change in realisation rate compared to the previous week.
 
-# Results
-
 ## DSRN WoW Change %
 Percentage change in Daily Sellable Room Nights compared to the previous week.
+
+# Results
+
 ![what1](https://github.com/Hanes-smart/Hospitality-Renevue-Analytics-Dashboard-using-Power-BI/blob/main/WhatsApp%20Image%202026-03-03%20at%208.13.00%20PM.jpeg)
+
+![what2](https://github.com/Hanes-smart/Hospitality-Renevue-Analytics-Dashboard-using-Power-BI/blob/main/WhatsApp%20Image%202026-03-03%20at%208.13.01%20PM.jpeg)
