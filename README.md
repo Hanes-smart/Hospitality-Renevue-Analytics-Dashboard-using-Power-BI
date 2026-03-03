@@ -1,5 +1,4 @@
 # Hospitality-Renevue-Analytics-Dashboard-using-Power-BI
-# Hotel Booking Analytics – Business Metrics Documentation
 
 This document explains the key business metrics used in the Hotel Booking Analytics Dashboard.
 
@@ -83,4 +82,4 @@ Percentage change in realisation rate compared to the previous week.
 
 ## DSRN WoW Change %
 Percentage change in Daily Sellable Room Nights compared to the previous week.
-![what1]
+![what1](https://github.com/Hanes-smart/Hospitality-Renevue-Analytics-Dashboard-using-Power-BI/blob/main/WhatsApp%20Image%202026-03-03%20at%208.13.00%20PM.jpeg)
