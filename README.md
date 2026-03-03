@@ -1,5 +1,5 @@
 # Hospitality-Renevue-Analytics-Dashboard-using-Power-BI
-# 🏨 Hotel Booking Analytics – Business Metrics Documentation
+# Hotel Booking Analytics – Business Metrics Documentation
 
 This document explains the key business metrics used in the Hotel Booking Analytics Dashboard.
 
@@ -78,6 +78,8 @@ Percentage change in RevPAR compared to the previous week.
 
 ## Realisation WoW Change %
 Percentage change in realisation rate compared to the previous week.
+
+# Results
 
 ## DSRN WoW Change %
 Percentage change in Daily Sellable Room Nights compared to the previous week.
